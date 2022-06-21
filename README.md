@@ -1,5 +1,5 @@
-# 3D-bedroom using OpenGL
-This is an assignment done for my Computer Graphics lab using C++ and OpenGL. The GL, GLU and GLUT libraries were used. The bedroom was designed using cubes, pyramids and one 2D polygon.
+# 3D-room using OpenGL
+This is an mini project done for my Computer Graphics lab using C++ and OpenGL. The GL, GLU and GLUT libraries were used. The room was designed using cubes, pyramids and one 2D polygon.
 
 ![picture alt](https://github.com/AravindCL/cggproject/blob/main/bedroom.png)
 
